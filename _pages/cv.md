@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in School of Earth and Space Sciences, Peking University, 2024 (expected)
+* B.S. in School of Earth and Space Sciences, Peking University, 2019
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Bachelor project
+  * Title: Electron- and ion-scale, nested magnetic cavities: Manifestation of cross-scale theta-pinches in space plasmas.
+  * Supervisor: Prof. Xu-Zhi Zhou
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* PhD project: Equilibrium model for magnetic structures
+  * 2019.9-2021.2: Construct self-consistent kinetic models to describe the nested and helical magnetic cavities, respectively, and investigate the 90◦-concentrated and donut-shaped electron pitch angle distributions.
+  * 2023.1-2023.7: Use the self-consistent kinetic model above to reconstruct an ion-vortex magnetic hole with reversed field direction.
+  * Supervisor: Prof. Xu-Zhi Zhou
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* PhD project: wave-particle interactions
+  * 2020.5-now: Use the MMS spacecraft measurements to identify resonances from the direct observations.
+  * 2022.5-now: Understand the cross-scale energy transfer via multiple wave-particle interactions.
+  * Supervisor: Prof. Xu-Zhi Zhou
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Mandarin Chinese
+  * fluent English
+* Coding
+  * Matlab
+  * Python
+  * IDL
+  * Latex
+  * Fortran
 
 Publications
 ======
@@ -52,13 +53,4 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
