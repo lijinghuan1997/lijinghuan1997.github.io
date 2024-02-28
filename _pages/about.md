@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-===
-
 Personal Information
 ---
 I'm a fifth-year Ph.D. student from [School of Earth and Space Sciences](https://sess.pku.edu.cn/), [Peking University](https://pku.edu.cn/). 
