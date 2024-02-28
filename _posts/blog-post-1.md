@@ -7,4 +7,4 @@ tags:
   - magnetic structure
 ---
 
-[阅读全文](https://mp.weixin.qq.com/s/5-D3u32jglwpDLneyPwf7Q)
+[read the passage](https://mp.weixin.qq.com/s/5-D3u32jglwpDLneyPwf7Q)
