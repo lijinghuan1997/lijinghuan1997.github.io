@@ -1,0 +1,10 @@
+---
+title: '低能离子与等离子体电磁波动之间的异常共振'
+date: 2021-11-27
+permalink: /posts/blog-post-3/
+tags:
+  - wechat passage
+  - wave-particle interaction
+  - anomalous resonance
+---
+[阅读全文](https://mp.weixin.qq.com/s/h6rndWYUZB2_jo3a-9ehTw)
