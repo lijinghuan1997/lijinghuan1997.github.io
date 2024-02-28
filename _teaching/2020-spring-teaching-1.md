@@ -11,5 +11,5 @@ location: "Beijing, China"
 
 Space Discovery (太空探索)
 ======
-*  graded assignments, quizzes, and exams, ensuring fair assessment and feedback to a class of 180+ students.
+*  Graded assignments, quizzes, and exams, ensuring fair assessment and feedback to a class of 180+ students.
 *  Assisted in the preparation of classes.
