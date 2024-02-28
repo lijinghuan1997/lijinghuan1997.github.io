@@ -10,4 +10,5 @@ location: "Beijing, China"
 
 Intriguing science of the solar system
 ===
-
+*  Graded assignments, quizzes, and exams, ensuring fair assessment and feedback to a class of 180+ students.
+*  Assisted in the preparation of classes.
