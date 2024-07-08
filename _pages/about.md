@@ -22,7 +22,7 @@ I am very fortunate to be advised by [Prof. Xuzhi Zhou](https://faculty.pku.edu.
 
 Curriculum Vitae
 ---
-My CV is here: [jinghuan's CV](../assets/Curriculum_Vitae.pdf).
+My CV is here: [Jinghuan's CV](../assets/Curriculum_Vitae.pdf).
 
 Contact Information
 ---
