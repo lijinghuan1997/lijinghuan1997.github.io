@@ -10,15 +10,15 @@ redirect_from:
 
 Personal Information
 ---
-I'm a fifth-year Ph.D. student from [School of Earth and Space Sciences](https://sess.pku.edu.cn/), [Peking University](https://pku.edu.cn/). 
+I obtain my Ph.D. from [School of Earth and Space Sciences](https://sess.pku.edu.cn/), [Peking University](https://pku.edu.cn/). 
 I major in Space Physics, with an emphasis on Magnetospheric Physics. My research interest includes wave-particle interactions and small-scale magnetic structures.
 
 Education
 ---
-2019-now:  Ph.D. student in Space Physics (with an emphasis on Magnetospheric Physics), School of Earth and Space Sciences, Peking University, Beijing, China.
+2019.9-2024.7:  Ph.D. student in Space Physics (with an emphasis on Magnetospheric Physics), School of Earth and Space Sciences, Peking University, Beijing, China.
 I am very fortunate to be advised by [Prof. Xuzhi Zhou](https://faculty.pku.edu.cn/xzzhou/zh_CN/index.htm) from [Peking University](https://pku.edu.cn/).
 
-2015-2019: B. Sc. majoring in Space Science, School of Earth and Space Sciences, Peking University, Beijing, China.
+2015.9-2019.7: B. Sc. majoring in Space Science, School of Earth and Space Sciences, Peking University, Beijing, China.
 
 Curriculum Vitae
 ---
