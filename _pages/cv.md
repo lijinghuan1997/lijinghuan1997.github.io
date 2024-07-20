@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in School of Earth and Space Sciences, Peking University, 2024 (expected)
+* Ph.D in School of Earth and Space Sciences, Peking University, 2024
 * B.S. in School of Earth and Space Sciences, Peking University, 2019
 
 Research experience
@@ -26,7 +26,7 @@ Research experience
   * Supervisor: Prof. Xu-Zhi Zhou
 
 * PhD project: wave-particle interactions
-  * 2020.5-now: Use the MMS spacecraft measurements to identify resonances from the direct observations.
+  * 2022.5-2024.7: Use the MMS spacecraft measurements to identify coupled Landau and anomalous resonances from the direct observations.
   * 2022.5-now: Understand the cross-scale energy transfer via multiple wave-particle interactions.
   * Supervisor: Prof. Xu-Zhi Zhou
   
