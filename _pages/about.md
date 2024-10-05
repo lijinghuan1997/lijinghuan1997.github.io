@@ -27,5 +27,5 @@ My CV is here: [Jinghuan's CV](../assets/Curriculum_Vitae.pdf).
 
 Contact Information
 ---
-[Email_pku](mailto:jinghuan.li@irfu.se)/[Email_gmail](mailto:lijinghuan1997@gmail.com)/[Wechat](../images/WeChat.jpg)
+[Email_irfu](mailto:jinghuan.li@irfu.se)/[Email_gmail](mailto:lijinghuan1997@gmail.com)/[Wechat](../images/WeChat.jpg)
 
