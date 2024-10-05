@@ -10,8 +10,9 @@ redirect_from:
 
 Personal Information
 ---
-I obtain my Ph.D. from [School of Earth and Space Sciences](https://sess.pku.edu.cn/), [Peking University](https://pku.edu.cn/). 
-I major in Space Physics, with an emphasis on Magnetospheric Physics. My research interest includes wave-particle interactions and small-scale magnetic structures.
+I obtain my Ph.D. from [School of Earth and Space Sciences](https://sess.pku.edu.cn/), [Peking University](https://pku.edu.cn/), majoring in Space Physics with an emphasis on Magnetospheric Physics. My research interest includes wave-particle interactions and small-scale magnetic structures.
+
+Now I am a postdoc at the Swedish Institute of Space Physics, Uppsala, working with [Prof. Yuri Khotyaintsev](https://scholar.google.com/citations?user=n8MxB-AAAAAJ&hl=zh-CN), an expert at both plasma/space physics and instrumentation.
 
 Education
 ---
