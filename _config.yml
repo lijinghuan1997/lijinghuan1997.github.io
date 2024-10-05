@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jing-Huan Li(李京寰)"
-  pronouns         : # example: "he"  
-  bio              : "Peking University"
-  location         : "Beijing, China"
-  employer         : #"Peking University"
+  pronouns         : "He"  
+  bio              : "Swedish Institute of Space Physics, Uppsala"
+  location         : "Uppsala, Sweden"
+  employer         : "IRFU"
   uri              : # URL
   email            : "lijinghuan1997@gmail.com" 
 
