@@ -3,6 +3,7 @@ title: "Anomalous resonance between low-energy particles and electromagnetic pla
 collection: publications
 permalink: /publication/paper4
 date: 2022-11-23
+venue: 'Communications Physics'
 paperurl: 'https://www.nature.com/articles/s42005-022-01083-y'
 citation: 'Li, J. H., Liu, Z. Y., Zhou, X. Z., Li, L., Omura, Y., Yue, C., ... & Burch, J. L. (2022). Anomalous resonance between low-energy particles and electromagnetic plasma waves. Communications Physics, 5(1), 300.'
 ---
